@@ -1,6 +1,10 @@
 # tech_career_101
 Resources for Tech Career 101 Workshops
 
+## Tech Career 101 Check In Form
+
+https://forms.gle/V5aUFdL1KUfzKSmC9
+
 ## Completion Requirements
 
 - Headshot
