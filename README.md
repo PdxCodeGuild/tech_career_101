@@ -5,6 +5,10 @@ Resources for Tech Career 101 Workshops
 
 https://forms.gle/V5aUFdL1KUfzKSmC9
 
+## Turn In Your Homework Here:
+
+Email to careerservices@pdxcodeguild.com
+
 ## Completion Requirements
 
 - Headshot
