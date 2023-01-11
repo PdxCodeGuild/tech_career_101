@@ -10,4 +10,4 @@ https://www.kirbypartners.com/take-a-professional-headshot/
 
 #### Resume Template and Tutorial
 
-https://github.com/PdxCodeGuild/tech_career_101/blob/main/pre_workshop/Career%20Services%20Resume%20Tutorial%20-%20PdxCodeGuild.pdf
+https://github.com/PdxCodeGuild/tech_career_101/blob/main/day_1/Career%20Services%20Resume%20Tutorial%20-%20PdxCodeGuild.pdf
