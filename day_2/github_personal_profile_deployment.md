@@ -18,3 +18,13 @@ A great (and free) way to host your personal portfolio website is using GitHub p
 https://www.springboard.com/blog/software-engineering/programmer-portfolio/
 https://pages.github.com/
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+
+# Deployment
+
+Github Pages is an excellent way to host unlimited static websites for free. Static means HTML/CSS/JS files only -- no Python!
+
+To deploy a serverside project (like your capstone), you will need to use a hosting serivce. There are a million different services to do this, but if you've never deployed a project before I recommend PythonAnywhere and Heroku. PythonAnywhere is free for your first project, Heroku is very cheap to host a low-traffic project.
+
+https://www.pythonanywhere.com/
+https://www.heroku.com/
+https://github.com/PdxCodeGuild/tech_career_101/blob/main/day_2/heroku_deployment.md

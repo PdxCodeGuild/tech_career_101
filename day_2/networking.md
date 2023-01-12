@@ -1,0 +1,11 @@
+# Networking and Informational Interviews
+
+Statistically, if you send a resume to a company without having any connections at a company, you have a 2% chance of getting that job. If you have a connection with someone at a company, your chances increase to 40%. Networking is usually the slowest (and least favorite) part of the job hunt, so it's important to get started as soon as your profiles and documents are ready to go.
+
+- LinkedIn is your friend. Check the "people you may know" section for people you know. Remember that LinkedIn has "connections", not "friends".
+- The search function on LinkedIn is the best way to find people to reach out to for informational interviews. The more connections you have, the easier it is to find people to talk to.
+- Meetups and hackathons are great ways to make connections, especially locally, but are hard to find post-pandemic.
+- You can find Slack and Discord groups that are oriented around different tech cities and programming languages/technologies.
+- When you are looking for informational interviews, they don't have to be with people you personally know, new LinkedIn connections are fine. Don't be afraid to butter up people a little when asking! Everyone wants to be the admired expert and pontificate a little.
+
+Find a way to make a connection at the companies you want to work for and ask them for informational interviews or what positions they have open. If you have a personal connection at the company, great! If not, look on LinkedIn for connections at the company or even people at the company with mutual connections and reach out. Do some research and see if the company organizes or sponsors any meetups or events. If they do, then go, participate, and reach out in person. Make sure to get contact info and follow up to talk with them or someone at the company! As your network grows, this process becomes easier and easier. This is why you should start networking as soon as possible after graduating. If you started networking during your first week after graduating, by now you will already be building up a network.
