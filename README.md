@@ -9,6 +9,14 @@ https://forms.gle/V5aUFdL1KUfzKSmC9
 
 Email to careerservices@pdxcodeguild.com
 
+## How To Read A Tech Job Listing
+
+https://www.youtube.com/watch?v=40K4eJN9Myc
+
+## Tech Application/Interview Process In A Pandemic
+
+https://www.youtube.com/watch?v=8rWEgnbfhWo
+
 ## Completion Requirements
 
 - Headshot
