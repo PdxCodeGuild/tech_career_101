@@ -6,7 +6,7 @@ https://www.kirbypartners.com/take-a-professional-headshot/
 
 #### How to set up a LinkedIn profile
 
-https://www.kirbypartners.com/take-a-professional-headshot/
+https://plainenglish.io/blog/how-to-set-up-your-programming-linkedin-profile-1c8322c24a72
 
 #### Resume Template and Tutorial
 
