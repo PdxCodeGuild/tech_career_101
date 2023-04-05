@@ -1,4 +1,9 @@
-# Pre-Workshop Readings
+# Day One Check-in
+
+https://forms.gle/V5aUFdL1KUfzKSmC9  
+(This only needs to be filled out on the first day of TC101)
+
+# Readings
 
 #### How to take a professional headshot
 
